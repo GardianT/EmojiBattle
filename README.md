@@ -1,0 +1,3 @@
+# EmojiBattle
+
+For fun !
